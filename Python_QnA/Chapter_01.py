@@ -188,8 +188,8 @@ for k in range(0,10):
 
 # COMMAND ----------
 
-print('\nrange(2,7,2)')
-for i in range(2,7,2):
+print('\nrange(5,20,5)')
+for i in range(3,16,4):
     print(f"i={i} : {i*'$'}")
 
 print('\nrange(3,7,2)')
